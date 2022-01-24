@@ -1,0 +1,7 @@
+./src/keyboard/java/Keyboard.java
+./src/keycaps/java/Keycaps.java
+./src/owner/Owner.java
+./src/main/java/Main.java
+./src/test/java/Test.java
+./src/switches/java/Switches.java
+./src/helper/java/Helper.java
